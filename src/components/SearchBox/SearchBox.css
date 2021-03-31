@@ -1,0 +1,14 @@
+.search-container {
+  display: flex;
+  justify-content: center;
+}
+
+.search-input {
+  padding: 10px 20px;
+  font-size: 15px;
+  width: 140px;
+  background: gray;
+  color: white;
+  border-radius: 50px;
+  box-shadow: 0px 0px 5px white;
+}

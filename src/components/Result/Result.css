@@ -1,0 +1,13 @@
+.result-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 40px 20px;
+}
+
+@media only screen and (max-width: 550px) {
+  .result-container {
+    margin: 20px 5px;
+  }
+}
